@@ -175,7 +175,6 @@ class Methods {
             zis.close();
         } catch (IOException e) {
             System.out.println("Something went wrong!");
-            ;
         }
     }
 }
